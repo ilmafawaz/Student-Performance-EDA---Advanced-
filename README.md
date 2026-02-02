@@ -1,7 +1,7 @@
 # Student-Performance-EDA-Advanced-
 This project performs an advanced Exploratory Data Analysis (EDA) on a student academic performance dataset to understand how demographic, socio-economic, and preparation-related factors influence student outcomes. The analysis combines data cleaning, univariate, bivariate, and multivariate exploration, followed by a dashboard for clear, non-technical storytelling.
 
-#Dataset
+# Dataset
 students_performance.csv
 
 ##Dashboard
